@@ -1,0 +1,11 @@
+{
+  "name": "softwarearchitecture",
+  "version": "1.0.0",
+  "description": "Software Architecture and Clean Code Design in OOP",
+  "main": "1SRP.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Godfred Nsabo",
+  "license": "MIT"
+}
